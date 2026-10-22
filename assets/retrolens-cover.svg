@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <defs>
+    <linearGradient id="portal" x1="690" y1="40" x2="1110" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#AE8BEF"/>
+      <stop offset="1" stop-color="#5B3F91"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(220 180 -170 210 970 180)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#704DA8" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#15151C" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="#15151C"/>
+  <path d="M0 90H1200M0 180H1200M0 270H1200M150 0V360M300 0V360M450 0V360M600 0V360M750 0V360M900 0V360M1050 0V360" stroke="#FFFFFF" stroke-opacity=".035"/>
+  <rect width="1200" height="360" rx="24" fill="url(#glow)"/>
+  <rect x="52" y="48" width="7" height="260" rx="3.5" fill="#A987E8"/>
+  <text x="86" y="105" fill="#D3BDF8" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" letter-spacing="4">MIKAEL KALESARAN / MK EDITION</text>
+  <text x="82" y="184" fill="#F6F2FC" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">RETROLENS</text>
+  <text x="86" y="224" fill="#B9B4C4" font-family="Arial, Helvetica, sans-serif" font-size="20">Real-time portal effects. Controlled by your hands.</text>
+  <text x="86" y="286" fill="#9B8DAF" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">LOCAL CAMERA PROCESSING  /  11 LIVE FILTERS</text>
+  <ellipse cx="951" cy="180" rx="119" ry="76" transform="rotate(-35 951 180)" stroke="url(#portal)" stroke-width="5"/>
+  <ellipse cx="951" cy="180" rx="76" ry="119" transform="rotate(-35 951 180)" stroke="#C8B1F3" stroke-opacity=".85" stroke-width="3"/>
+  <ellipse cx="951" cy="180" rx="46" ry="46" stroke="#FFFFFF" stroke-opacity=".14" stroke-width="1.5"/>
+  <circle cx="951" cy="180" r="11" fill="#B99AEF"/>
+  <circle cx="951" cy="180" r="4" fill="#FFFFFF"/>
+  <circle cx="1078" cy="82" r="3" fill="#D4C0FB"/>
+  <circle cx="834" cy="269" r="2" fill="#9A73D7"/>
+</svg>

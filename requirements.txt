@@ -1,0 +1,4 @@
+# Compatibility-pinned dependencies for the MediaPipe Solutions API used by Retrolens.
+mediapipe==0.10.9
+numpy==1.26.4
+opencv-python==4.10.0.84
